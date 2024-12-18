@@ -1,4 +1,4 @@
-@charset "UTF-8";img{max-width:300px}#allCards{box-shadow:5px 5px 5px 5px gray;border:thin solid black;padding:5em;background-color:#f0f0f0}#searchCards{box-shadow:5px 5px 5px 5px gray;border:thin solid black;padding:5em;background-color:#f0f0f0;color:#00f;margin-bottom:1.5em}body{background-color:#323232}/*!
+@charset "UTF-8";img{max-width:300px}main{background-color:#646464}#allCards{box-shadow:5px 5px 5px 5px gray;padding:5em;background-color:#f0f0f0}#searchCards{box-shadow:5px 5px 5px 5px gray;padding:5em;background-color:#f0f0f0;color:#00f;margin-bottom:1.5em}body{background-color:#323232}/*!
 * Bootstrap  v5.3.3 (https://getbootstrap.com/)
 * Copyright 2011-2024 The Bootstrap Authors
 * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
